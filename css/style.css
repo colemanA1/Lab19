@@ -1,0 +1,14 @@
+.Numbox {
+  width: 25px
+}
+
+.items {
+  border: 3px: solid green;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.allitems {
+  text-align: center;
+}
